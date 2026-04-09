@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Fast Garage Doors Repair",
+    "phone": "+19524601040",
+    "category": "garage door installer",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Garage Door Experts: Minneapolis",
+      "heroSubline": "Reliable garage door repair and installation. Serving the Twin Cities with expert service and lasting solutions.",
+      "aboutTitle": "Your Trusted Minneapolis Garage Door Partner",
+      "aboutText": [
+        "Fast Garage Doors Repair started as a small, family-owned business right here in Minneapolis. We saw a need for dependable garage door services that understood the unique challenges our Minnesota climate presents.",
+        "We believe in doing the job right the first time. Our team is committed to providing honest assessments, quality workmanship, and durable solutions that stand up to our harsh winters and humid summers.",
+        "We're proud to be part of the Minneapolis community. We actively support local initiatives and strive to build lasting relationships with our customers. We're not just fixing garage doors; we're building trust."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "Emergency repairs when you need them most. We arrive quickly and get your door working again."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Highly trained and experienced professionals. We handle all makes and models of garage doors."
+        },
+        {
+          "title": "Durable Solutions",
+          "description": "Quality parts and reliable workmanship. Built to withstand Minnesota's extreme weather conditions."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Honest assessments and upfront pricing. No hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Get a Free Garage Door Quote",
+      "ctaSubline": "Contact us today for reliable service and expert solutions in Minneapolis and the surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable garage door repair services in Minneapolis.",
+        "description": "Is your garage door making strange noises, not opening or closing properly, or completely off track? Don't wait until it becomes a major security risk or causes further damage. Fast Garage Doors Repair provides comprehensive garage door repair services throughout the Minneapolis area. We understand the urgency of these situations, especially during our harsh Minnesota winters.\n\nOur experienced technicians can diagnose and repair all types of garage door problems, including broken springs, damaged cables, faulty openers, misaligned tracks, and more. We carry a wide range of replacement parts to ensure a quick and efficient repair. We work on all major brands and models.\n\nWe prioritize safety and quality in every repair we undertake. We'll thoroughly inspect your entire garage door system, identify the root cause of the problem, and provide you with a clear explanation of the necessary repairs and associated costs. Our goal is to restore your garage door to its optimal working condition, ensuring the safety and security of your home and family.",
+        "process": [
+          "Step 1: Diagnose the problem and provide a clear explanation.",
+          "Step 2: Offer upfront pricing with no hidden fees.",
+          "Step 3: Use quality replacement parts for lasting repairs.",
+          "Step 4: Test and ensure proper operation of the garage door."
+        ],
+        "benefits": [
+          "Increased safety and security",
+          "Improved garage door performance",
+          "Extended lifespan of your garage door",
+          "Prevention of further damage"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a repair request?",
+            "answer": "We offer same-day or next-day service in most cases. Our technicians are strategically located throughout Minneapolis to ensure a rapid response time."
+          },
+          {
+            "question": "What types of garage door problems do you repair?",
+            "answer": "We repair all types of garage door issues, including broken springs, damaged cables, faulty openers, misaligned tracks, and more. We work on all major brands and models."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer 24/7 emergency garage door repair services. Call us anytime, and we'll dispatch a technician to your location as soon as possible."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Professional garage door installation services for Minneapolis homeowners.",
+        "description": "Looking to upgrade your garage door or need a new installation for a new construction project? Fast Garage Doors Repair offers professional garage door installation services throughout the Minneapolis area. We understand that a new garage door is a significant investment, and we're committed to providing you with expert guidance and quality workmanship.\n\nWe offer a wide selection of garage doors from leading manufacturers, including steel, wood, aluminum, and composite materials. We can help you choose the perfect door to complement your home's architectural style and meet your specific needs and budget. Whether you're looking for a traditional raised-panel door for a classic Minneapolis craftsman or a modern, insulated door for energy efficiency, we have the perfect solution.\n\nOur experienced installation technicians will ensure that your new garage door is installed correctly and safely. We'll handle all aspects of the installation process, from removing your old door to connecting the opener and ensuring proper alignment and functionality. We'll also provide you with detailed instructions on how to operate and maintain your new garage door.",
+        "process": [
+          "Step 1: Consult with you to determine your needs and preferences.",
+          "Step 2: Provide a wide selection of garage door options.",
+          "Step 3: Handle all aspects of the installation process.",
+          "Step 4: Ensure proper alignment and functionality of the new door."
+        ],
+        "benefits": [
+          "Increased curb appeal",
+          "Improved home security",
+          "Enhanced energy efficiency",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes about 4-6 hours. More complex installations may take longer."
+          },
+          {
+            "question": "Do you offer a warranty on your garage door installations?",
+            "answer": "Yes, we offer a comprehensive warranty on all our garage door installations, covering both parts and labor."
+          },
+          {
+            "question": "Can you install a garage door opener with my new garage door?",
+            "answer": "Yes, we can install a new garage door opener with your new garage door. We offer a variety of opener models to choose from, including chain drive, belt drive, and direct drive openers."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Expert garage door opener repair and replacement in Minneapolis.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and security risk. If your garage door opener is failing to open or close your door, making excessive noise, or simply not responding, Fast Garage Doors Repair can help. We provide expert garage door opener repair and replacement services throughout the Minneapolis area.\n\nOur skilled technicians are experienced in diagnosing and repairing all types of garage door opener problems, including faulty motors, broken gears, damaged chains or belts, and malfunctioning sensors. We work on all major brands of garage door openers, including Chamberlain, LiftMaster, Genie, and more.\n\nIf your garage door opener is beyond repair, we can recommend and install a new, reliable opener that meets your needs and budget. We offer a variety of opener models with advanced features such as smartphone connectivity, battery backup, and security sensors. We'll ensure that your new opener is properly installed and programmed for smooth and reliable operation.",
+        "process": [
+          "Step 1: Diagnose the opener problem and provide a clear explanation.",
+          "Step 2: Offer repair or replacement options based on the issue.",
+          "Step 3: Ensure proper installation and programming of new openers.",
+          "Step 4: Test and verify the opener's functionality."
+        ],
+        "benefits": [
+          "Convenient and reliable garage door operation",
+          "Enhanced home security",
+          "Prevention of further damage to your garage door",
+          "Access to advanced opener features"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs to be repaired or replaced?",
+            "answer": "If your opener is making loud noises, failing to open or close the door consistently, or is more than 10 years old, it may be time for a repair or replacement."
+          },
+          {
+            "question": "What are the benefits of upgrading to a new garage door opener?",
+            "answer": "New openers offer advanced features such as smartphone connectivity, battery backup, and enhanced security sensors. They are also more energy-efficient and quieter than older models."
+          },
+          {
+            "question": "How long does it take to replace a garage door opener?",
+            "answer": "Replacing a garage door opener typically takes about 1-2 hours."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and reliable garage door spring replacement services in Minneapolis.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle. If you suspect that your garage door spring is broken or damaged, it's crucial to call a professional for replacement. Fast Garage Doors Repair provides safe and reliable garage door spring replacement services throughout the Minneapolis area.\n\nOur trained technicians have the expertise and equipment to safely remove and replace broken garage door springs. We use only high-quality replacement springs that are designed to last. We'll ensure that your new springs are properly sized and installed to provide optimal performance and safety.\n\nWe understand the urgency of spring replacement, as a broken spring can render your garage door inoperable and pose a safety hazard. We offer prompt and reliable service to get your garage door back in working order as quickly as possible. Don't attempt to replace garage door springs yourself – call the professionals at Fast Garage Doors Repair for safe and reliable service.",
+        "process": [
+          "Step 1: Assess the type and size of the broken spring.",
+          "Step 2: Safely remove the broken spring using specialized tools.",
+          "Step 3: Install a new, high-quality replacement spring.",
+          "Step 4: Test the garage door's balance and functionality."
+        ],
+        "benefits": [
+          "Safe and reliable garage door operation",
+          "Prevention of personal injury",
+          "Extended lifespan of your garage door",
+          "Proper garage door balance and functionality"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs of a broken garage door spring include a loud snapping sound, a garage door that is difficult to open or close, or a garage door that is hanging lopsided."
+          },
+          {
+            "question": "Can I replace garage door springs myself?",
+            "answer": "No, garage door spring replacement is a dangerous task that should only be performed by trained professionals."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "Garage door springs typically last for 7-10 years, depending on usage and maintenance."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Professional garage door cable repair and replacement services in Minneapolis.",
+        "description": "Garage door cables play a crucial role in the safe and efficient operation of your garage door. If your garage door cables are frayed, damaged, or broken, it's essential to have them repaired or replaced promptly. Fast Garage Doors Repair offers professional garage door cable repair and replacement services throughout the Minneapolis area.\n\nOur experienced technicians can quickly diagnose and repair or replace damaged garage door cables. We use only high-quality replacement cables that are designed to withstand the stress and strain of daily use. We'll ensure that your new cables are properly installed and adjusted for smooth and reliable operation.\n\nDamaged garage door cables can pose a significant safety hazard. Don't attempt to repair or replace them yourself – call the professionals at Fast Garage Doors Repair for safe and reliable service. We'll get your garage door back in working order quickly and efficiently.",
+        "process": [
+          "Step 1: Inspect the cables for damage or wear.",
+          "Step 2: Safely remove the damaged cables.",
+          "Step 3: Install new, high-quality replacement cables.",
+          "Step 4: Adjust the cables for proper tension and balance."
+        ],
+        "benefits": [
+          "Safe and reliable garage door operation",
+          "Prevention of personal injury",
+          "Extended lifespan of your garage door",
+          "Proper garage door balance and functionality"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged garage door cables?",
+            "answer": "Common signs of damaged garage door cables include frayed or broken strands, loose cables, or a garage door that is hanging unevenly."
+          },
+          {
+            "question": "Can I repair garage door cables myself?",
+            "answer": "No, garage door cable repair is a dangerous task that should only be performed by trained professionals."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "You should inspect your garage door cables at least twice a year for signs of damage or wear."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Comprehensive garage door maintenance services to keep your door running smoothly.",
+        "description": "Regular maintenance is essential to keep your garage door operating safely and efficiently and to extend its lifespan. Fast Garage Doors Repair offers comprehensive garage door maintenance services throughout the Minneapolis area. Our maintenance services include a thorough inspection of all components, lubrication of moving parts, tightening of loose hardware, and adjustment of springs and cables. We'll identify and address any potential problems before they become major issues. Living in Minneapolis, our garage doors take a beating from the weather - let us keep yours running smoothly.\n\nBy scheduling regular maintenance, you can prevent costly repairs, extend the life of your garage door, and ensure the safety and security of your home. Our experienced technicians will provide you with a detailed report of our findings and recommendations for any necessary repairs or replacements.\n\nDon't wait until your garage door breaks down – schedule a maintenance appointment with Fast Garage Doors Repair today.",
+        "process": [
+          "Step 1: Thorough inspection of all garage door components.",
+          "Step 2: Lubrication of moving parts, including hinges and rollers.",
+          "Step 3: Tightening of loose hardware and adjustment of springs and cables.",
+          "Step 4: Detailed report of findings and recommendations."
+        ],
+        "benefits": [
+          "Extended lifespan of your garage door",
+          "Prevention of costly repairs",
+          "Safe and reliable garage door operation",
+          "Improved garage door performance"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule garage door maintenance?",
+            "answer": "We recommend scheduling garage door maintenance at least once a year, or more often if you use your garage door frequently or live in an area with harsh weather conditions."
+          },
+          {
+            "question": "What is included in a garage door maintenance service?",
+            "answer": "A garage door maintenance service includes a thorough inspection of all components, lubrication of moving parts, tightening of loose hardware, and adjustment of springs and cables."
+          },
+          {
+            "question": "How much does garage door maintenance cost?",
+            "answer": "The cost of garage door maintenance varies depending on the services included. Contact us for a free quote."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is proud to offer comprehensive garage door services to the residents of St. Paul, Minnesota. From the historic charm of Summit Avenue's Victorian-era homes to the bustling energy of the city center, we understand the unique needs of St. Paul homeowners. Our experienced technicians are equipped to handle any garage door issue, ensuring your home is safe and secure, especially during Minnesota's extreme cold winters. \n\nWe provide a full range of services, including garage door repair, installation, and maintenance. Whether you need a new garage door opener, spring replacement, or emergency repair, we're available to help. We are committed to providing prompt, reliable service at competitive prices. We know St. Paul relies on dependable service, especially with harsh weather conditions.",
+        "localContext": "Serving the capital city, we appreciate the architectural diversity of St. Paul, including the beautiful Victorian homes and the need for weather-resistant garage door solutions.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "Maplewood",
+          "West St. Paul"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is your trusted provider of garage door services in Plymouth, Minnesota. We understand the specific needs of Plymouth's established suburban homes, many of which were built in the 1970s and 80s. Our team is experienced in servicing and repairing a wide range of garage door styles and brands, ensuring your garage door operates smoothly and reliably, especially during the extreme cold winters.\n\nWe offer a comprehensive suite of garage door services, including installation, repair, and maintenance. Whether you need a new garage door to enhance your home's curb appeal, a quick repair to fix a broken spring, or routine maintenance to keep your garage door in top condition, we're here to help. We pride ourselves on our prompt, professional service and commitment to customer satisfaction.",
+        "localContext": "We are dedicated to providing reliable garage door services to the Plymouth community, understanding the need for dependable solutions in established suburban neighborhoods.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is pleased to serve the residents of Eden Prairie, Minnesota, with expert garage door services. Knowing that much of Eden Prairie consists of planned developments from the 1980s and 90s, we provide solutions tailored to the common garage door styles and needs of these homes. We ensure your garage door is functioning optimally, providing security and convenience throughout the year, including those extreme cold winters.\n\nOur services include garage door installation, repair, and maintenance. From replacing worn-out parts to installing new, energy-efficient garage doors, we're equipped to handle any job. We are committed to delivering exceptional service with competitive pricing. Eden Prairie families rely on dependable service, and we're here to provide it.",
+        "localContext": "We understand the planned community aesthetic of Eden Prairie and offer garage door services that blend seamlessly with the existing architecture.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is a leading provider of garage door services in Maple Grove, Minnesota. With many family developments built in the 1990s and 2000s, Maple Grove homes require durable and reliable garage doors. We specialize in servicing and repairing a wide range of garage door types and brands, ensuring your garage door operates smoothly and safely, especially during the extreme cold winters.\n\nWe offer a complete range of garage door services, including installation, repair, and maintenance. Whether you need a new garage door to enhance your home's value, a quick repair to fix a broken cable, or preventive maintenance to extend the life of your garage door, we're here to help. We are committed to providing prompt, professional service and exceeding your expectations.",
+        "localContext": "Serving the families of Maple Grove, we prioritize safety and reliability in all our garage door services.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair provides expert garage door services to the residents of Bloomington, Minnesota. Many homes in Bloomington were built in the 1960s and 70s, often featuring ranch-style architecture. We understand the specific needs of these homes and offer garage door solutions that complement their style. We make sure your garage door functions reliably, providing security and convenience, especially during the extreme cold winters.\n\nWe offer a full suite of services, including garage door installation, repair, and maintenance. Whether you need to replace an aging garage door opener, fix a broken spring, or simply keep your garage door in top condition with routine maintenance, we're here to help. We pride ourselves on our fast response times and commitment to customer satisfaction.",
+        "localContext": "We cater to the established ranch-style homes of Bloomington, providing garage door services that respect their architectural heritage.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Minneapolis"
+        ]
+      },
+      {
+        "city": "Minneapolis",
+        "slug": "minneapolis-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is proud to serve Minneapolis, MN, offering comprehensive garage door solutions to meet the diverse needs of its residents. From historic homes in the Downtown area to modern residences in North East, we understand the unique challenges and requirements of Minneapolis properties. \n\nWe specialize in garage door repair, installation, and maintenance, ensuring your garage door operates smoothly and reliably throughout the year. We understand that Minneapolis residents need dependable service, particularly during extreme cold winters. Our team is equipped to handle any issue, from broken springs to malfunctioning openers, providing prompt and efficient solutions.",
+        "localContext": "From the historic architecture to modern developments, we provide garage door solutions tailored to the unique character of each Minneapolis neighborhood.",
+        "nearbyAreas": [
+          "St. Paul",
+          "Bloomington",
+          "Richfield"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is dedicated to providing top-quality garage door services to the residents of Minnetonka, Minnesota. Minnetonka features a mix of established neighborhoods and newer developments, each with its own unique style. We are experienced in servicing a wide array of garage door types and brands, ensuring your garage door operates smoothly and reliably, especially during those harsh Minnesota winters.\n\nOur services include garage door installation, repair, and maintenance. Whether you need a new garage door to enhance your home's curb appeal, a quick repair to fix a broken cable, or routine maintenance to keep your garage door in top condition, we're here to help. We pride ourselves on our prompt, professional service and commitment to customer satisfaction.",
+        "localContext": "We understand the diverse housing styles of Minnetonka and offer garage door solutions to match.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Richfield",
+        "slug": "richfield-mn",
+        "state": "MN",
+        "content": "Fast Garage Doors Repair is pleased to offer expert garage door services to the residents of Richfield, Minnesota. Richfield features a mix of mid-century homes and newer developments, each with its own unique garage door needs. We are experienced in servicing a wide range of garage door types and brands, ensuring your garage door operates smoothly and reliably, even during Minnesota's extreme cold winters.\n\nOur services include garage door installation, repair, and maintenance. Whether you need a new garage door to enhance your home's value, a quick repair to fix a broken spring, or preventive maintenance to extend the life of your garage door, we're here to help. We are committed to providing prompt, professional service and exceeding your expectations.",
+        "localContext": "Serving Richfield, we understand the need for reliable and affordable garage door services in this vibrant community.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Minneapolis",
+          "Edina"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "Fast Garage Doors Repair was a lifesaver! My garage door spring broke on a Saturday morning in Linden Hills, and they were out to my house within a couple of hours. The technician, Mike, was professional, knowledgeable, and had the job done quickly. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Garage Door Installation",
+        "text": "We recently had Fast Garage Doors Repair install a new insulated garage door. The installation team was efficient and courteous. The new door looks great and has already made a difference in the temperature of our garage during these cold Minneapolis nights. Minor hiccup with the initial scheduling, but they resolved it quickly.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 5,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out! I called Fast Garage Doors Repair, and they were able to come out the same day. The technician diagnosed the problem quickly and had it fixed in no time. Great service and reasonable prices!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Garage Door Spring Replacement",
+        "text": "I had a broken garage door spring and was worried about the safety of my family. Fast Garage Doors Repair came out and replaced the spring quickly and safely. The technician was very professional and explained everything he was doing. Highly recommend their services!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Sarah L.",
+        "rating": 4,
+        "service": "Garage Door Maintenance",
+        "text": "I scheduled a garage door maintenance appointment with Fast Garage Doors Repair, and I'm glad I did! The technician identified a few minor issues that could have become major problems down the road. The maintenance service was thorough and affordable. Good preventative care!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Kevin R.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "Excellent service! Our garage door was making a horrible grinding noise. The Fast Garage Doors Repair technician identified a bent track and repaired it quickly. The door now operates smoothly and quietly. Very satisfied!",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Fast Garage Doors Repair | Minneapolis MN",
+        "description": "Minneapolis's trusted garage door repair & installation. Expert service, fast response, and lasting solutions. Call +19524601040."
+      },
+      "about": {
+        "title": "About Fast Garage Doors Repair",
+        "description": "Learn about Fast Garage Doors Repair's commitment to quality garage door service in Minneapolis. Experienced technicians, reliable solutions."
+      },
+      "services": {
+        "title": "Garage Door Services | Minneapolis MN",
+        "description": "Comprehensive garage door repair, installation, and maintenance in Minneapolis. Expert solutions for all your garage door needs."
+      },
+      "contact": {
+        "title": "Contact Fast Garage Doors Repair",
+        "description": "Contact Fast Garage Doors Repair for fast, reliable garage door service in Minneapolis. Call +19524601040 for a free quote."
+      },
+      "reviews": {
+        "title": "Fast Garage Doors Repair Reviews",
+        "description": "Read reviews from satisfied Fast Garage Doors Repair customers in Minneapolis. See why we're the trusted choice for garage door service."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Fast Garage Doors Repair provides garage door service in Minneapolis and surrounding areas. Find service in your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
